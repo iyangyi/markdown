@@ -29,12 +29,11 @@ markdown常用语法解释和说明
     这是一个有多行的文本框
     你可以写入代码等,每行文字只要输入1个Tab或者4个空格再输入文字即可
 
-### 输入一段代码
-  来一个PHP版本的HelloWorld吧，先输入一个Tab。
-	public function helloword() {
-		echo 'Hello word';
-	}
-	
+### 在多行文本框里输入一段代码,来一个PHP版本的HelloWorld吧
+    public function helloword() {
+        echo 'Hello word';
+    }
+
 ### 链接
    用\[文字说明\] \(链接\ "Title") 来表示：
 	
