@@ -50,11 +50,12 @@ markdown常用语法解释和说明
 [image]: https://help.github.com/assets/images/site/invertocat.png "github"
 
 ### 区块引用
-> 文字被些字符包围<br>
+> 文字被些字符包围
 >
-> 只要再文字前面加上>空格即可
+> 只要在文字前面加上>空格即可
 >
 > 如果你要换行的话,新起一行,输入>空格即可,后面不接文字
+> 或者这一行后面加<br>,下一行也就能自动换行了
 > 但> 只能放在行首才有效
 
 ### 区块多重包围引用
@@ -104,3 +105,8 @@ markdown常用语法解释和说明
 用\*\* 文字 \*\* 来标识一个粗体字，类似html的\<strong\>\</strong\><br />
 
 **这是粗体**
+
+### 在线编辑器
+
+[MaHua](http://mahua.jser.me/)
+[4ye](http://markdown.4ye.me//)
